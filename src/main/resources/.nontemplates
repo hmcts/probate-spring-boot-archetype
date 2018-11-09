@@ -1,0 +1,23 @@
+# comments
+**/*.jar
+**/*.bat
+**/*.sh
+**/*.zip
+**/*.gz
+**/*.xz
+**/*.tar
+**/*.7z
+**/dependency-check-suppressions.xml
+**/gradle-wrapper.properties
+**/gradlew
+**/checkstyle.xml
+gradle/
+.gradle/
+**/.gradle/
+**/.idea/
+**/git.properties
+**/AuthCheckerConfiguration.java
+gradlew
+gradlew.bat
+
+

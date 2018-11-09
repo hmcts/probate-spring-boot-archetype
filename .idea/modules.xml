@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype.iml" filepath="$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype_main.iml" filepath="$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype_main.iml" group="probate-orchestration-service-archetype" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype_test.iml" filepath="$PROJECT_DIR$/.idea/modules/probate-orchestration-service-archetype_test.iml" group="probate-orchestration-service-archetype" />
+    </modules>
+  </component>
+</project>
